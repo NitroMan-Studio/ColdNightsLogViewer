@@ -31,16 +31,6 @@ git clone https://github.com/NitroMan-Studio/ColdNightsLogViewer.git
 Run the project:
 dotnet run --project ColdNightsLogViewer
 
-🧩 Project Structure
-ColdNightsLogViewer/
- ├── Assets/                 # icons and images
- ├── Converters/             # log color & highlight converters
- ├── MainWindow.xaml         # UI layout
- ├── MainWindow.xaml.cs      # app logic
- ├── README.md
- ├── ColdNightsLogViewer.csproj
- └── .gitignore
-
 ⚙️ Technologies Used
 
 C# (.NET 9)
